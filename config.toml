@@ -5,8 +5,8 @@ theme = "hello-friend"
 
 [languages]
     [languages.en]
-        title = "Hello Friend"
-        subtitle = "A simple theme for Hugo"
+        title = "0xA95"
+        subtitle = "Certified Retard"
         keywords = ""
         copyright = ""
         menuMore = "Show more"
@@ -22,7 +22,7 @@ theme = "hello-friend"
 # lastModDisplay = ""
 
 [languages.en.params.logo]
-logoText = "hello friend"
+logoText = "cd ~/etc/farewell/"
 logoHomeLink = "/"
 # or
 #
